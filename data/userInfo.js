@@ -30,8 +30,8 @@ var userInfo = {
     userOrignPlace:  "河南省周口市" ,
     userSeatPlace:  "北京市",
 //  userWeibo: "javascript@miaov.com",
+	userHobby: ["运动","游戏","电影","音乐"],
     userAssessment: "富有探索精神，精通各种JS技巧与实现，为人和善。",   
-    userHobby: ["运动","游戏","电影"],
 //  userAward: ["最佳前端架构奖"]
 }
 

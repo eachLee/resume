@@ -77,6 +77,14 @@ var skills = {
 				"移动端响应式",
 				"canvas游戏开发"
 			]
+		},
+		{
+			skillLanguage:"React",
+			percent:"20%",
+			skillTooltip:[
+				"简单了解 自己简单写过一些小demo",
+				"无实际开发项目经验"
+			]
 		}
 		
 	]
