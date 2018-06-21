@@ -30,7 +30,7 @@ var skills = {
 		},
 		{
 			skillLanguage:"CSS3",
-			percent:"90%",
+			percent:"85%",
 			skillTooltip:[
 				"掌握浮动及文档流特性",
 				"精通定位、浏览器兼容性",
@@ -40,14 +40,25 @@ var skills = {
 		},
 		{
 			skillLanguage:"javascript",
-			percent:"86%",
+			percent:"96%",
 			skillTooltip:[
-				"了解数据类型、作用域闭包等语言特性",
-				"掌握定时器、数组字符串及递归、数组去重等",
+				"对js的一些底层的原理有过研究",
+				"熟练掌握数据类型、作用域闭包等语言特性",
+				"熟练掌握定时器、数组字符串及递归、数组去重等",
 				"深入使用DOM\BOM\EVENT，能完成各类组件开发",
 				"掌握JS的数据调用、ajax实现机制、各类接口调用",
-				"掌握面向对象编程，对封装、继承、多态等均有了解",
-				"了解正则表达式，熟悉JS兼容性、JS性能提升"
+				"熟练面向对象编程，对封装、继承、多态等均有了解",
+				"熟悉正则表达式，熟悉JS兼容性、JS性能提升"
+			]
+		},
+		{
+			skillLanguage:"nodeJs",
+			percent:"60%",
+			skillTooltip:[
+				"了解node一些简单的运行原理",
+				"能熟练的安装和使用一些npm库",
+				"简单搭建一个本地node环境",
+				"对一些依赖node环境运行的库如：puppetter phantomJs nickJs等自动化测试工具和headless浏览器能熟练使用"
 			]
 		},
 		{
