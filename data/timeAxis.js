@@ -34,7 +34,7 @@ var timeAxisArr = [
 			jobPost:"前端高级工程师",
 			jonTask:"主要负责js脚本的开发",
 			jobContent:"包括：js广告脚本;根据CTO的需求实现移动端和PC端的广告加载。包括信息流广告，横幅广告，仿真信息广告，以及正文广告的定位和加载。此外，还负责使用puppeteer和phantomJs等自动化工具和headless浏览器的测试等工作。",
-		}
+		},
 		{
 		    startTime:"2015.05.05",
 			endTime:"2016.05.20",
